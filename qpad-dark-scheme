@@ -1,0 +1,39 @@
+Background:#1e1e1e
+Brackets background:#484848
+Brackets content background:#003366
+Marked text background:#003366
+Default:#fffbf0
+Whitespace:#1e1e1e
+Operator:#fffbf0
+Comment:#6a9955
+String:#ce9178
+System:#ce9178
+Command:#fffbf0
+Integer:#fffbf0
+Short:#fffbf0
+Long:#fffbf0
+Byte:#fffbf0
+Real:#fffbf0
+Float:#fffbf0
+Boolean:#80c000
+Symbol:#ce9178
+Identifier:#acceeb
+Keyword:#569cd6
+Time:#80c000
+Month:#80c000
+Second:#80c000
+Minute:#80c000
+Date:#80c000
+Datetime:#80c000
+Timespan:#80c000
+Timestamp:#80c000
+Parse Error:#830000
+Odd rows background:#dedbff
+Even rows background:#dddddd
+Key odd rows background:#deffde
+Key even rows background:#deffde
+Breakpoint background:#ffdede
+Current line background:#deffde
+Changed value:#ff0000
+Inactive watch:#969696
+Undefined/Error watch:#960000
