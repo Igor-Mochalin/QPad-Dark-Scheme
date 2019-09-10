@@ -8,32 +8,32 @@ Operator:#fffbf0
 Comment:#6a9955
 String:#ce9178
 System:#ce9178
-Command:#fffbf0
-Integer:#fffbf0
-Short:#fffbf0
-Long:#fffbf0
-Byte:#fffbf0
-Real:#fffbf0
-Float:#fffbf0
-Boolean:#80c000
+Command:#d9fedc
+Integer:#d9fedc
+Short:#d9fedc
+Long:#d9fedc
+Byte:#d9fedc
+Real:#d9fedc
+Float:#d9fedc
+Boolean:#d9fedc
 Symbol:#ce9178
 Identifier:#acceeb
 Keyword:#569cd6
-Time:#80c000
-Month:#80c000
-Second:#80c000
-Minute:#80c000
-Date:#80c000
-Datetime:#80c000
-Timespan:#80c000
-Timestamp:#80c000
+Time:#d9fedc
+Month:#d9fedc
+Second:#d9fedc
+Minute:#d9fedc
+Date:#d9fedc
+Datetime:#d9fedc
+Timespan:#d9fedc
+Timestamp:#d9fedc
 Parse Error:#830000
-Odd rows background:#dedbff
-Even rows background:#dddddd
+Odd rows background:#d4d0fe
+Even rows background:#ebe9ff
 Key odd rows background:#deffde
 Key even rows background:#deffde
 Breakpoint background:#ffdede
-Current line background:#deffde
+Current line background:#003366
 Changed value:#ff0000
 Inactive watch:#969696
 Undefined/Error watch:#960000
